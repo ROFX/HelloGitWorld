@@ -12,6 +12,8 @@ namespace HelloGit
         {
             // Attempt at github with VS2015
             Console.WriteLine("Hey there Git!");
+
+            Console.WriteLine("So glad it is working!");
         }
     }
 }
