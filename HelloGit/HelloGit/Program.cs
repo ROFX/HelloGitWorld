@@ -14,6 +14,8 @@ namespace HelloGit
             Console.WriteLine("Hey there Git!");
 
             Console.WriteLine("So glad it is working!");
+
+            Console.WriteLine("Can you read this?^^");
         }
     }
 }
